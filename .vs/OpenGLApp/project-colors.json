@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c5bd399-3e88-42e1-be5b-426157489937": {
+      "ProjectGuid": "4c5bd399-3e88-42e1-be5b-426157489937",
+      "DisplayName": "OpenGLApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

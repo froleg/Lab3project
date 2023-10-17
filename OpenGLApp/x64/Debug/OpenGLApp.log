@@ -1,0 +1,4 @@
+﻿  main_lab.cpp
+D:\Users\Oleg\source\repos\FirstLab\OpenGLApp\OpenGLApp\main_lab.cpp(166,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLApp.vcxproj -> D:\Users\Oleg\source\repos\FirstLab\OpenGLApp\x64\Debug\OpenGLApp.exe
